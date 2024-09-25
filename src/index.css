@@ -20,7 +20,7 @@
 
 body{
   font-family: 'Raleway', sans-serif;
-  background-color: #031926;
+  background-color: #2e024b;
   color: #ffffff;
   min-height: 100vh;
 }
@@ -49,6 +49,7 @@ b{
   position:fixed;
   z-index: -1;
   bottom: 0px;  
+  
 }
 
 .bgtwo{
@@ -62,6 +63,7 @@ b{
   z-index: -1;
   top: -30px;
 }
+
 
 
 /* NAVBAR */
@@ -592,6 +594,8 @@ footer h4{
   font-weight: 600;
   padding-bottom: 40px;
 }
+
+
 
 
 
