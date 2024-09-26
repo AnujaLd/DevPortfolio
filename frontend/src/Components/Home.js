@@ -6,12 +6,15 @@ import Tilt from 'react-parallax-tilt';
 import Avatar from '../images/Avatar.png';
 import {CiCoffeeCup} from "react-icons/ci";
 import woking from '../LottieFiles/woking.json';
+import DarkMode from "./DarkMode.js";
 
 const Home = () => {
   return (
     <div >
+      <br></br>
+      <DarkMode/>
       <div className='HomePage'>
-
+      
         <div className='HomeText'>
           <h1>Hi There!</h1>
           <h1>I'M <b>Anuja Dewnim</b></h1>

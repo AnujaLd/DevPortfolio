@@ -7,6 +7,7 @@ import About from "./Components/About";
 import Experience from "./Components/Experience";
 import Resume from "./Components/Resume";
 import Project from "./Components/Projects";
+import DarkMode from "./Components/DarkMode";
 import MoveToTop from "./Components/MoveToTop";
 import Lottie from  "lottie-react";
 // import nightsky from "./LottieFiles/night-sky.json";
