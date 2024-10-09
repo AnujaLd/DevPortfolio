@@ -12,6 +12,7 @@ const Home = () => {
   return (
     <div >
       <br></br>
+      <br></br>
       <DarkMode/>
       <div className='HomePage'>
       
