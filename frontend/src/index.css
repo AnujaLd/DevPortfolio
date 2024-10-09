@@ -658,3 +658,36 @@ footer h4 {
   fill: #fff;
 }
 
+/* *********************** */
+
+/* Default (light mode) */
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+/* Dark mode switch styles */
+.dark_mode_input {
+  display: none;
+}
+
+.dark_mode_label {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dark_mode_label svg {
+  width: 24px;
+  height: 24px;
+  transition: all 0.3s ease;
+}
+
+
+
